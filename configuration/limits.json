@@ -1,0 +1,12 @@
+{
+    "BMEA": {
+        "high_alert": 5.00,
+        "low_alert": 4.00,
+        "currency": "USD"
+    },
+    "ASME.FRK": {
+        "high_alert": 800.00,
+        "low_alert": 700.00,
+        "currency": "EUR"
+    }
+}
