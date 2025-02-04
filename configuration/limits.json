@@ -4,9 +4,99 @@
         "low_alert": 4.00,
         "currency": "USD"
     },
+    "SGMO":{
+        "high_alert": 2.00,
+        "low_alert": 1.00,
+        "currency": "USD"
+    },
+    "ARAY":{
+        "high_alert": 3.00,
+        "low_alert": 2.00,
+        "currency": "USD"
+    },
+    "AVD":{
+        "high_alert": 7.00,
+        "low_alert": 6.00,
+        "currency": "USD"
+    },
+    "ATAI":{
+        "high_alert": 3.00,
+        "low_alert": 1.50,
+        "currency": "USD"
+    },
+    "CLNE":{
+        "high_alert": 4.00,
+        "low_alert": 3.00,
+        "currency": "USD"
+    },
+    "BDTX":{
+        "high_alert": 3.00,
+        "low_alert": 2.20,
+        "currency": "USD"
+    },
+    "BODI":{
+        "high_alert": 8.50,
+        "low_alert": 6.50,
+        "currency": "USD"
+    },
+    "DAR":{
+        "high_alert": 40.00,
+        "low_alert": 35.00,
+        "currency": "USD"
+    },
+    "CRZK.FRK":{
+        "high_alert": 6.00,
+        "low_alert": 4.80,
+        "currency": "EUR"
+    },
+    "ZURA":{
+        "high_alert": 3.00,
+        "low_alert": 1.60,
+        "currency": "USD"
+    },
+    "MRX.FRK":{
+        "high_alert": 3.00,
+        "low_alert": 1.50,
+        "currency": "EUR"
+    },
+	"CSH.FRK":{
+        "high_alert": 10.00,
+        "low_alert": 7.50,
+        "currency": "EUR"
+    },
     "ASME.FRK": {
         "high_alert": 800.00,
         "low_alert": 700.00,
         "currency": "EUR"
+    },
+    "INZY":{
+        "high_alert": 3.00,
+        "low_alert": 1.30,
+        "currency": "USD"
+    },
+    "BNN.DEX":{
+        "high_alert": 4.00,
+        "low_alert": 2.50,
+        "currency": "EUR"
+    },
+    "VYGR":{
+        "high_alert": 8.00,
+        "low_alert": 5.50,
+        "currency": "USD"
+    },
+    "ACIU":{
+        "high_alert": 4.00,
+        "low_alert": 2.70,
+        "currency": "USD"
+    },
+    "HOOK":{
+        "high_alert": 4.00,
+        "low_alert": 2.00,
+        "currency": "USD"
+    },
+    "ATNM":{
+        "high_alert": 3.00,
+        "low_alert": 1.30,
+        "currency": "USD"
     }
 }
